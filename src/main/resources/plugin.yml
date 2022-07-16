@@ -1,0 +1,8 @@
+name: Snake
+version: '${project.version}'
+main: dev.fumaz.snake.Snake
+api-version: 1.19
+authors: [ Fumaz ]
+website: https://fumaz.dev
+commands:
+  snake: { }
